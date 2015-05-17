@@ -1,1 +1,1 @@
-Coil Compression
+Coil Compression Algorithms for Magnetic Resonance Imaging
